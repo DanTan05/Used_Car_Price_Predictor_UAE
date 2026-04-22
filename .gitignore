@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Intermediate pipeline outputs (reproducible by running scripts)
+uae_used_cars_clean.csv
+uae_used_cars_features.csv
+uae_cars_merged.csv
+cars24_raw.csv
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+
+# Project notes
+CLAUDE.md
+learning_notes.md
