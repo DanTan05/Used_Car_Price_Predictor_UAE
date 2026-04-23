@@ -87,7 +87,7 @@ pip install pandas numpy scikit-learn xgboost shap matplotlib
 
 ## Dataset
 
-- **Kaggle**: [UAE Used Cars Dataset](https://www.kaggle.com/) — 10,000 listings
+- **Kaggle**: [UAE Used Cars Dataset]([https://www.kaggle.com/](https://www.kaggle.com/code/ayberkural/car-price-prediction-in-the-uae-marke/input)) — 10,000 listings
 - **Cars24**: scraped via `scraper.py` (Selenium)
 - Price capped at AED 300,000 to remove exotic car outliers
 - After cleaning: 9,742 rows
